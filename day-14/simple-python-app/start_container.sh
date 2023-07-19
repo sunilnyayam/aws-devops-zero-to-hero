@@ -6,3 +6,4 @@ docker pull sunilnayayam/simple-pyhton-flask-service:latest
 
 # Run the Docker image as a container
 docker run -d -p 5000:5000 sunilnayayam/simple-pyhton-flask-service:latest
+
