@@ -1,4 +1,4 @@
-rm -f#!/bin/bash
+#!/bin/bash
 set -e
 
 # Stop the running container (if any)
